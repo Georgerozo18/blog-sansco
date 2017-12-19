@@ -1,0 +1,35 @@
+[12-Dec-2017 14:42:12] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home4/thesansc/public_html/blog/index.php on line 29
+[12-Dec-2017 14:42:16] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home4/thesansc/public_html/blog/index.php on line 29
+[12-Dec-2017 14:42:33] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home4/thesansc/public_html/blog/index.php on line 29
+[12-Dec-2017 14:42:36] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home4/thesansc/public_html/blog/index.php on line 29
+[12-Dec-2017 14:44:50] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home4/thesansc/public_html/blog/index.php on line 28
+[12-Dec-2017 14:46:12] PHP Warning:  Invalid argument supplied for foreach() in /home4/thesansc/public_html/blog/index.php on line 25
+[12-Dec-2017 14:46:31] PHP Parse error:  syntax error, unexpected T_INCLUDE_ONCE in /home4/thesansc/public_html/blog/index.php on line 3
+[12-Dec-2017 14:46:33] PHP Parse error:  syntax error, unexpected T_INCLUDE_ONCE in /home4/thesansc/public_html/blog/index.php on line 3
+[12-Dec-2017 14:47:51] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home4/thesansc/public_html/blog/index.php on line 3
+[12-Dec-2017 15:30:06] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home4/thesansc/public_html/blog/index.php on line 3
+[12-Dec-2017 15:30:38] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home4/thesansc/public_html/blog/index.php on line 3
+[12-Dec-2017 15:32:01] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home4/thesansc/public_html/blog/index.php on line 3
+[12-Dec-2017 16:38:07 America/Chicago] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home4/thesansc/public_html/blog/index.php on line 3
+[12-Dec-2017 16:40:07 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/thesansc/public_html/blog/index.php on line 51
+[12-Dec-2017 16:40:46 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/thesansc/public_html/blog/index.php on line 51
+[12-Dec-2017 16:40:59 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/thesansc/public_html/blog/index.php on line 51
+[12-Dec-2017 16:41:13 America/Chicago] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home4/thesansc/public_html/blog/index.php on line 3
+[12-Dec-2017 16:41:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home4/thesansc/public_html/blog/index.php on line 3
+[12-Dec-2017 16:44:41 America/Chicago] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home4/thesansc/public_html/blog/index.php on line 3
+[12-Dec-2017 16:44:44 America/Chicago] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home4/thesansc/public_html/blog/index.php on line 3
+[12-Dec-2017 16:44:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home4/thesansc/public_html/blog/index.php on line 3
+[12-Dec-2017 16:45:39 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/thesansc/public_html/blog/index.php on line 50
+[12-Dec-2017 16:46:02 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/thesansc/public_html/blog/index.php on line 50
+[12-Dec-2017 16:55:39 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/thesansc/public_html/blog/index.php on line 50
+[12-Dec-2017 16:56:42 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/thesansc/public_html/blog/index.php on line 50
+[12-Dec-2017 16:57:07 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/thesansc/public_html/blog/index.php on line 51
+[12-Dec-2017 17:38:20 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/thesansc/public_html/blog/index.php on line 51
+[12-Dec-2017 17:38:59 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/thesansc/public_html/blog/index.php on line 51
+[12-Dec-2017 17:39:03 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/thesansc/public_html/blog/index.php on line 51
+[12-Dec-2017 17:39:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/thesansc/public_html/blog/index.php on line 50
+[12-Dec-2017 17:39:49 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/thesansc/public_html/blog/index.php on line 50
+[12-Dec-2017 17:40:00 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/thesansc/public_html/blog/index.php on line 50
+[12-Dec-2017 18:19:46 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/thesansc/public_html/blog/index.php on line 50
+[12-Dec-2017 18:20:05 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/thesansc/public_html/blog/index.php on line 51
+[12-Dec-2017 18:23:02 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/thesansc/public_html/blog/index.php on line 51
